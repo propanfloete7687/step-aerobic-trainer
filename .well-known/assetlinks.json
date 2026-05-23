@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.propanfloete7687.twa",
+    "sha256_cert_fingerprints": [
+      "5D:DA:94:05:91:7B:14:77:8E:C0:3B:5D:4E:CA:E6:B9:91:25:80:AF:C7:39:72:EA:93:AD:43:82:9E:71:10:AC"
+    ]
+  }
+}]
