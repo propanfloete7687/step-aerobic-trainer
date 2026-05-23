@@ -1136,6 +1136,7 @@ loadCustom().forEach(c=>{if(c.desc&&!STEP_DATA[c.name])STEP_DATA[c.name]={cat:c.
 buildDropdown();
 renderTemplates();
 render();
+if('serviceWorker' in navigator) {navigator.serviceWorker.register('sw.js');}  
 </script>
 </body>
 </html>
