@@ -1,9 +1,9 @@
 {
   "name": "Step Aerobic Trainer",
   "short_name": "Step Trainer",
-  "description": "Trainingsplaner für Step-Aerobic mit Live-Timer, BPM-Metronom, Kursleiter-Modus und Schrittbibliothek",
-  "start_url": "/step-aerobic-trainer/",
-  "scope": "/step-aerobic-trainer/",
+  "description": "Trainingsplaner für Step-Aerobic mit Live-Timer, BPM-Metronom und Schrittbibliothek",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#08080E",
   "theme_color": "#FF6B35",
@@ -22,32 +22,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "screenshot_1_planner.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Trainingsplaner"
-    },
-    {
-      "src": "screenshot_2_workout.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Workout-Timer"
-    },
-    {
-      "src": "screenshot_3_history.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Verlauf & Statistiken"
-    },
-    {
-      "src": "screenshot_4_coach.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "label": "Kursleiter-Modus"
     }
   ]
 }
