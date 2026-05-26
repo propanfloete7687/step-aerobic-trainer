@@ -2,7 +2,7 @@
   "name": "Step Aerobic Trainer",
   "short_name": "Step Trainer",
   "description": "Step aerobic workout planner with live timer, BPM metronome and 53 moves library",
-  "start_url": "/index.html",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#08080E",
