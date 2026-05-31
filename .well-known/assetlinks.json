@@ -1,10 +1,32 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.propanfloete7687.twa",
-    "sha256_cert_fingerprints": [
-      "80:D4:8C:C7:66:D4:66:80:41:80:DE:62:79:F6:43:A0:35:8B:DD:1A:3C:95:2F:19:B3:4B:86:B5:AF:60:95:63"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.propanfloete7687.twa",
+      "sha256_cert_fingerprints": [
+        "80:D4:8C:C7:66:D4:66:80:41:80:DE:62:79:F6:43:A0:35:8B:DD:1A:3C:95:2F:19:B3:4B:86:B5:AF:60:95:63"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "PACKAGE_NAME_JUMPING",
+      "sha256_cert_fingerprints": [
+        "FINGERPRINT_JUMPING_AUS_PLAY_CONSOLE"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "PACKAGE_NAME_ZUMBA",
+      "sha256_cert_fingerprints": [
+        "FINGERPRINT_ZUMBA_AUS_PLAY_CONSOLE"
+      ]
+    }
   }
-}]
+]
